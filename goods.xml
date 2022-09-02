@@ -1,0 +1,20 @@
+<goodsList>
+	<goods>
+		<id>11</id>
+		<number>9311</number>
+		<status>available</status>
+		<category>Garments</category>
+		<type>Tops</type>
+		<name>Long Tops</name>
+		<price>3000</price>
+	</goods>
+	<goods>
+		<id>12</id>
+		<number>9313</number>
+		<status>available</status>
+		<category>Medicine</category>
+		<type>BP Tablets</type>
+		<name>Tentex Tablets</name>
+		<price>800</price>
+	</goods>
+</goodsList>

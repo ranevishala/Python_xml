@@ -1,0 +1,16 @@
+<userList>
+	<user>
+		<id>1</id>
+		<username>suraj</username>
+		<password>surkum</password>
+		<name>Suraj Kumar</name>
+		<department>Marketing</department>
+	</user>
+	<user>
+		<id>2</id>
+		<username>chetan</username>
+		<password>cheshe</password>
+		<name>Chetan Shetty</name>
+		<department>Software</department>
+	</user>
+</userList>
